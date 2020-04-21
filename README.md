@@ -26,4 +26,4 @@ This resource contains the script: esx_policejob from ESX-ORG! These resources w
 
 
 
-This Script was programmed by Jérémie N'gadi
+I have used esx_policejob that was programmed by Jérémie N'gadi.
