@@ -42,4 +42,4 @@ start esx_cripsjob
 
 # Legal
 
-This Script was Programmed by Jérémie N'gadi
+I have used esx_policejob that was programmed by Jérémie N'gadi
